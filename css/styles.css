@@ -1,0 +1,43 @@
+.container {
+    background-color: #f1f1f1;
+    display: block;
+    width: 800px;
+    margin: 0 auto;
+    align-items: center;
+    text-align: center;
+}
+
+/* .title {
+    font-size: 20px;
+} */
+
+#person-img {
+    width: 350px;
+    height: 380px;
+    border-radius: 50%;
+    padding-top: 10px;
+}
+
+h4 {
+    text-decoration: underline;
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    color: #55acee;
+}
+
+p {
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.review-container {
+    background-color: #D0D0D0;
+    display: block;
+    width: 600px;
+    height: auto;
+    margin: 0 auto;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-align: center;
+    align-items: center;
+}
